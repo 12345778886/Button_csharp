@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\bin\Debug\net6.0-windows\跟我抗衡.exe
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\bin\Debug\net6.0-windows\跟我抗衡.deps.json
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\bin\Debug\net6.0-windows\跟我抗衡.runtimeconfig.json
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\bin\Debug\net6.0-windows\跟我抗衡.dll
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\bin\Debug\net6.0-windows\跟我抗衡.pdb
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.Form1.resources
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.csproj.GenerateResource.cache
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.AssemblyInfo.cs
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.dll
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\refint\跟我抗衡.dll
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.pdb
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\跟我抗衡.genruntimeconfig.cache
+C:\Users\User\Desktop\跟我抗衡\跟我抗衡\obj\Debug\net6.0-windows\ref\跟我抗衡.dll
